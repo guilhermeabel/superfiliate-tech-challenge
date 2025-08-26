@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/45f613bb-791b-43df-bd37-e4eea47c362f/project/d6573291-76f3-4222-aea9-bcbd5000d8de.svg)](https://wakatime.com/badge/user/45f613bb-791b-43df-bd37-e4eea47c362f/project/d6573291-76f3-4222-aea9-bcbd5000d8de)
+
 # superfiliate tech challenge
 
 hi, this is my submission for the `buy-x-get-y` challenge from superfiliate 😎
